@@ -6,19 +6,19 @@ This project was developed during my internship at **Redblox Technologies Pvt. L
 
 ---
 
-## 🔥 Features
+## Features
 
-- 🔐 MetaMask Wallet Authentication
-- 🖼️ Create & Mint NFTs
-- 🛒 List NFTs for Sale (Fixed Price)
-- 💰 Buy NFTs using Smart Contracts
-- 👤 User Profile Management
-- 📊 Real-Time Blockchain Transaction Status
-- ⛓️ Ethereum Smart Contract Integration
+- MetaMask Wallet Authentication
+- Create & Mint NFTs
+- List NFTs for Sale (Fixed Price)
+- Buy NFTs using Smart Contracts
+- User Profile Management
+- Real-Time Blockchain Transaction Status
+- Ethereum Smart Contract Integration
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - Next.js
@@ -40,7 +40,7 @@ This project was developed during my internship at **Redblox Technologies Pvt. L
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User connects MetaMask wallet.
 2. Wallet address acts as user authentication.
@@ -59,7 +59,7 @@ This project was developed during my internship at **Redblox Technologies Pvt. L
 
 ---
 
-# 🚀 Getting Started
+# Getting Started
 
 Follow the steps below to run the project locally.
 
@@ -67,35 +67,33 @@ Follow the steps below to run the project locally.
 
 ```bash
 
-1️⃣ Clone the Repository
+1️. Clone the Repository
 git clone https://github.com/YOUR_USERNAME/Nft-App.git
 cd Nft-App
 
 
-2️⃣ Install Dependencies
+2. Install Dependencies
 - npm install
 
-3️⃣ Install Required Web3 Packages
+3️. Install Required Web3 Packages
 - npm install next@latest react@latest react-dom@latest
 - npm install @rainbow-me/rainbowkit wagmi viem @tanstack/react-query
 - npm install formik yup
 - npm install formidable
 - npm install ethers@5.6.4
 
-4️⃣ Run Development Server
+4️. Run Development Server
 - npm run dev
-
-🌐 Open in Browser
 
 After running the server, open:
 
 http://localhost:3000
 ```
-## 📸 Application Screenshots
+## Application Screenshots
 
 ---
 
-### 🏠 Landing Experience
+### Landing Experience
 
 <p align="center">
   <img src="screenshots/Home.png" width="85%"/>
@@ -103,7 +101,7 @@ http://localhost:3000
 
 ---
 
-### 🔐 Wallet Authentication Flow
+### Wallet Authentication Flow
 
 <p align="center">
   <img src="screenshots/Wallet-linking-page.jpg" width="48%"/>
@@ -116,7 +114,7 @@ http://localhost:3000
 
 ---
 
-### 👤 User Profile & NFT Dashboard
+### User Profile & NFT Dashboard
 
 <p align="center">
   <img src="screenshots/User-Profile.png" width="85%"/>
@@ -124,7 +122,7 @@ http://localhost:3000
 
 ---
 
-### 🖼️ NFT Creation & Listing
+### NFT Creation & Listing
 
 <p align="center">
   <img src="screenshots/Creating-a-new-NFT.png" width="48%"/>
@@ -137,7 +135,7 @@ http://localhost:3000
 
 ---
 
-### 📬 Additional Pages
+### Additional Pages
 
 <p align="center">
   <img src="screenshots/contact.png" width="48%"/>
