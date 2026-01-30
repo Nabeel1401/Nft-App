@@ -1,4 +1,4 @@
-# 🖼️ NFT Marketplace DApp (Web3)
+# NFT Marketplace DApp (Web3)
 
 A fully functional **Decentralized Fixed-Price NFT Marketplace** built using **Next.js, Tailwind CSS, Solidity and Ethereum**.
 
