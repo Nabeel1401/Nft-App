@@ -91,3 +91,55 @@ After running the server, open:
 
 http://localhost:3000
 ```
+## 📸 Application Screenshots
+
+---
+
+### 🏠 Landing Experience
+
+<p align="center">
+  <img src="screenshots/Home.png" width="85%"/>
+</p>
+
+---
+
+### 🔐 Wallet Authentication Flow
+
+<p align="center">
+  <img src="screenshots/Wallet-linking-page.jpg" width="48%"/>
+  <img src="screenshots/Wallet-linking-screen.jpg" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/Wallet-page.jpg" width="55%"/>
+</p>
+
+---
+
+### 👤 User Profile & NFT Dashboard
+
+<p align="center">
+  <img src="screenshots/User-Profile.png" width="85%"/>
+</p>
+
+---
+
+### 🖼️ NFT Creation & Listing
+
+<p align="center">
+  <img src="screenshots/Creating-a-new-NFT.png" width="48%"/>
+  <img src="screenshots/Option-to-list-for-sale.png" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/Listing-NFT-for-sale.png" width="55%"/>
+</p>
+
+---
+
+### 📬 Additional Pages
+
+<p align="center">
+  <img src="screenshots/contact.png" width="48%"/>
+  <img src="screenshots/about.png" width="48%"/>
+</p>
