@@ -67,7 +67,7 @@ Follow the steps below to run the project locally.
 
 ```bash
 
-## 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 git clone https://github.com/YOUR_USERNAME/Nft-App.git
 cd Nft-App
 
