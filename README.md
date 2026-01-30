@@ -73,17 +73,17 @@ cd Nft-App
 
 
 2️⃣ Install Dependencies
-npm install
+- npm install
 
 3️⃣ Install Required Web3 Packages
-npm install next@latest react@latest react-dom@latest
-npm install @rainbow-me/rainbowkit wagmi viem @tanstack/react-query
-npm install formik yup
-npm install formidable
-npm install ethers@5.6.4
+- npm install next@latest react@latest react-dom@latest
+- npm install @rainbow-me/rainbowkit wagmi viem @tanstack/react-query
+- npm install formik yup
+- npm install formidable
+- npm install ethers@5.6.4
 
 4️⃣ Run Development Server
-npm run dev
+- npm run dev
 
 🌐 Open in Browser
 
