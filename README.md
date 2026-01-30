@@ -42,20 +42,20 @@ This project was developed during my internship at **Redblox Technologies Pvt. L
 
 ## 🧠 How It Works
 
-1️⃣ User connects MetaMask wallet  
-2️⃣ Wallet address acts as user authentication  
-3️⃣ Seller creates NFT with:
+1. User connects MetaMask wallet.
+2. Wallet address acts as user authentication.
+3. Seller creates an NFT with:
    - Title
    - Description
    - Image
-   - Fixed price  
-4️⃣ NFT is listed on the marketplace  
-5️⃣ Buyer clicks **Buy Now**  
-6️⃣ Smart contract:
+   - Fixed price
+4. NFT is listed on the marketplace.
+5. Buyer clicks **Buy Now**.
+6. Smart contract:
    - Verifies ownership
    - Transfers NFT ownership
-   - Transfers payment to seller  
-7️⃣ Transaction is recorded on blockchain  
+   - Transfers payment to the seller
+7. Transaction is recorded on the blockchain.
 
 ---
 
