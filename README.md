@@ -65,28 +65,29 @@ Follow the steps below to run the project locally.
 
 ---
 
-## 1️⃣ Clone the Repository
-
 ```bash
+
+## 1️⃣ Clone the Repository
 git clone https://github.com/YOUR_USERNAME/Nft-App.git
 cd Nft-App
 
 
-### 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 npm install
 
-### 3️⃣ Install Required Web3 Packages
+3️⃣ Install Required Web3 Packages
 npm install next@latest react@latest react-dom@latest
 npm install @rainbow-me/rainbowkit wagmi viem @tanstack/react-query
 npm install formik yup
 npm install formidable
 npm install ethers@5.6.4
 
-### 4️⃣ Run Development Server
+4️⃣ Run Development Server
 npm run dev
 
-### 🌐 Open in Browser
+🌐 Open in Browser
 
 After running the server, open:
 
 http://localhost:3000
+```
