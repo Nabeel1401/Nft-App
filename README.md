@@ -1,17 +1,17 @@
 # 🖼️ NFT Marketplace DApp (Web3)
 
-A fully functional **Decentralized NFT Marketplace** built using **Next.js, Tailwind CSS, Solidity and Ethereum**.
+A fully functional **Decentralized Fixed-Price NFT Marketplace** built using **Next.js, Tailwind CSS, Solidity and Ethereum**.
 
 This project was developed during my internship at **Redblox Technologies Pvt. Ltd.** and simulates a real-world Web3 NFT trading platform with secure wallet-based authentication.
 
 ---
 
-## 🔥 Live Features
+## 🔥 Features
 
 - 🔐 MetaMask Wallet Authentication
 - 🖼️ Create & Mint NFTs
-- 🛒 List NFTs for Direct Sale or Auction
-- 💰 Buy / Bid NFTs using Smart Contracts
+- 🛒 List NFTs for Sale (Fixed Price)
+- 💰 Buy NFTs using Smart Contracts
 - 👤 User Profile Management
 - 📊 Real-Time Blockchain Transaction Status
 - ⛓️ Ethereum Smart Contract Integration
@@ -24,14 +24,14 @@ This project was developed during my internship at **Redblox Technologies Pvt. L
 - Next.js
 - React.js
 - Tailwind CSS
-- RainbowKit (Wallet UI)
+- RainbowKit
 - Wagmi
-- Web3.js / Ethers.js
+- Ethers.js
 
 ### Blockchain
 - Solidity
 - Ethereum (Testnet)
-- ERC-721 / ERC-1155
+- ERC-721 Standard
 - Hardhat / Truffle
 
 ### Storage
@@ -40,29 +40,37 @@ This project was developed during my internship at **Redblox Technologies Pvt. L
 
 ---
 
-## 🧠 Architecture Overview
+## 🧠 How It Works
 
-1. User connects MetaMask wallet.
-2. Wallet address is used as authentication (No password system).
-3. Users can:
-   - Create NFT
-   - List NFT for sale
-   - Start auction
-4. Smart Contract handles:
-   - Ownership validation
-   - Bidding logic
-   - Secure payment transfer
-5. Blockchain verifies and records all transactions.
+1️⃣ User connects MetaMask wallet  
+2️⃣ Wallet address acts as user authentication  
+3️⃣ Seller creates NFT with:
+   - Title
+   - Description
+   - Image
+   - Fixed price  
+4️⃣ NFT is listed on the marketplace  
+5️⃣ Buyer clicks **Buy Now**  
+6️⃣ Smart contract:
+   - Verifies ownership
+   - Transfers NFT ownership
+   - Transfers payment to seller  
+7️⃣ Transaction is recorded on blockchain  
 
 ---
 
-## 📦 Installation & Setup
+# 🚀 Getting Started
 
-### 1️⃣ Clone Repository
+Follow the steps below to run the project locally.
+
+---
+
+## 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Nft-App.git
 cd Nft-App
+
 
 ### 2️⃣ Install Dependencies
 npm install
